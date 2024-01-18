@@ -34,10 +34,17 @@ ESTRUCTURA DEL PROYECTO
 El proyecto incluye:
 
 - Notebook Principal (PROYECTO_FINAL_JOAQUIN_SANABRIA.ipynb): Contiene el análisis, visualizaciones y modelos predictivos.
-  
-- Datos: Directorio con los conjuntos de datos utilizados (si aplica).
-  
+    
 - requirements.txt: Dependencias necesarias para ejecutar el proyecto.
+
+- DATOS
+
+El proyecto utiliza los siguientes conjuntos de datos, que se encuentran en el directorio de datos:
+
+- CARS.CSV: Este es el archivo de datos original que contiene información detallada sobre los vehículos. Incluye características como marca, modelo, año, precio, etc.
+
+- CORRECCION_CAR_DATA.CSV: Archivo de datos que ha sido procesado y corregido utilizando la API de OpenAI.
+Este archivo incluye correcciones en los nombres de las marcas y modelos de los vehículos para asegurar la consistencia y precisión en el análisis de datos.
   
   
 FUNCIONALIDADES
