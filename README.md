@@ -1,6 +1,9 @@
-README: Análisis Predictivo de Valor en Vehículos
-🚗 Dinámica de Precios en el Mercado Automotriz
-Este proyecto se enfoca en el análisis y la predicción de precios de vehículos en el mercado automotriz. Utilizando técnicas avanzadas de análisis de datos y aprendizaje automático,
+Análisis Predictivo de Valor en Vehículos 🚗 
+
+Dinámica de Precios en el Mercado Automotriz
+
+Este proyecto se enfoca en el análisis y la predicción de precios de vehículos en el mercado automotriz. 
+Utilizando técnicas avanzadas de análisis de datos y aprendizaje automático,
 se investigan diversas características de los vehículos para comprender su influencia en el valor de mercado.
 
 REQUISITOS
