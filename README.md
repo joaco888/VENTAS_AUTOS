@@ -42,30 +42,30 @@ Funcionalidades del Proyecto
 
 1- Análisis Exploratorio de Datos (EDA):
 
-    - Investigación en profundidad de características clave de los vehículos, como año, marca, kilometraje, tipo de combustible y precios.
-    - Análisis estadístico para identificar patrones, tendencias y distribuciones en el conjunto de datos.
-    - Exploración de cómo diferentes variables influyen en el valor de mercado de los vehículos.
+- Investigación en profundidad de características clave de los vehículos, como año, marca, kilometraje, tipo de combustible y precios.
+- Análisis estadístico para identificar patrones, tendencias y distribuciones en el conjunto de datos.
+- Exploración de cómo diferentes variables influyen en el valor de mercado de los vehículos.
 
 2- Limpieza y Preprocesamiento de Datos:
 
-    - Tratamiento exhaustivo de valores faltantes para asegurar la integridad de los datos.
-    - Aplicación de técnicas de normalización y codificación para preparar los datos para el análisis y modelado.
-    - Estrategias para manejar datos atípicos, mejorando así la precisión de los modelos.
+- Tratamiento exhaustivo de valores faltantes para asegurar la integridad de los datos.
+- Aplicación de técnicas de normalización y codificación para preparar los datos para el análisis y modelado.
+- Estrategias para manejar datos atípicos, mejorando así la precisión de los modelos.
 
 3- Uso de la API de OpenAI:
 
-    - Utilización de la API de OpenAI para corregir y estandarizar los nombres de las marcas y modelos de vehículos, asegurando la consistencia y precisión de los datos.
+- Utilización de la API de OpenAI para corregir y estandarizar los nombres de las marcas y modelos de vehículos, asegurando la consistencia y precisión de los datos.
 
 4- Modelos de Aprendizaje Automático:
 
-    - Implementación de modelos predictivos, incluyendo regresión lineal y RandomForest, para predecir los precios de los vehículos.
-    - Evaluación y optimización de modelos mediante validación cruzada y ajuste de hiperparámetros.
-    - Análisis de la efectividad de los modelos usando métricas como el error cuadrático medio (MSE) y el coeficiente de determinación (R²).
+- Implementación de modelos predictivos, incluyendo regresión lineal y RandomForest, para predecir los precios de los vehículos.
+- Evaluación y optimización de modelos mediante validación cruzada y ajuste de hiperparámetros.
+- Análisis de la efectividad de los modelos usando métricas como el error cuadrático medio (MSE) y el coeficiente de determinación (R²).
 
 5- Visualizaciones:
 
-    - Desarrollo de visualizaciones detalladas usando Matplotlib y Seaborn para ilustrar los datos y los resultados del análisis.
-    - Gráficos y diagramas para facilitar la interpretación de los patrones en los datos y los resultados del modelo.
+- Desarrollo de visualizaciones detalladas usando Matplotlib y Seaborn para ilustrar los datos y los resultados del análisis.
+- Gráficos y diagramas para facilitar la interpretación de los patrones en los datos y los resultados del modelo.
 
 USO
 
