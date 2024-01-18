@@ -20,6 +20,7 @@ Sigue estos pasos para configurar el proyecto:
 
 2- Crea un entorno virtual de Python:
     - Ejecuta: python3 -m venv myvenv
+
 3- Activa el entorno virtual:
     - En macOS/Linux: source myvenv/bin/activate
     -  En Windows: myvenv\Scripts\activate
