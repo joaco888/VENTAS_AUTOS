@@ -3,7 +3,7 @@ Análisis Predictivo de Valor en Vehículos 🚗
 Dinámica de Precios en el Mercado Automotriz
 
 Este proyecto se enfoca en el análisis y la predicción de precios de vehículos en el mercado automotriz. 
-Utilizando técnicas avanzadas de análisis de datos y aprendizaje automático,
+Utilizando técnicas de análisis de datos y aprendizaje automático,
 se investigan diversas características de los vehículos para comprender su influencia en el valor de mercado.
 
 REQUISITOS
@@ -23,7 +23,7 @@ Sigue estos pasos para configurar el proyecto:
 
 3- Activa el entorno virtual:
     - En macOS/Linux: source myvenv/bin/activate
-    -  En Windows: myvenv\Scripts\activate
+    - En Windows: myvenv\Scripts\activate
     
 4- Instala las dependencias del proyecto:
     - Ejecuta: pip install -r requirements.txt
